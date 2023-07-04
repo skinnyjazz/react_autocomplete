@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,YAGC,aAAyB,CAC1B,cAGC,aAAyB","file":"main.d9df4ce8.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.male-color {\n  color: rgb(115, 115, 254);\n}\n\n.female-color {\n  color: rgb(248, 123, 123);\n}\n"]}
